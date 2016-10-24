@@ -1,0 +1,2 @@
+git clone http://www.github.com/random11619/networksproject
+sudo apt-get install git
